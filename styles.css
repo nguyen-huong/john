@@ -3,7 +3,7 @@ background-image: url("assets/2354EB6F-A616-4490-BCC7-4085F4EFB064_1_201_a.jpeg"
 background-color:  #000080;
 color: #000080;
 font-family: 'Open Sans', sans-serif;
-font-size: 20px;
+font-size: 25px;
 letter-spacing: 2px;
 }
 img {
@@ -45,6 +45,6 @@ font-size: 20px;
 font-weight: bold;
 }
 a:hover {
-color: #ffbdbd;
+color: #000080;
 background: #fff;
 }

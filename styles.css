@@ -3,11 +3,11 @@ background-image: url("assets/2354EB6F-A616-4490-BCC7-4085F4EFB064_1_201_a.jpeg"
 background-color:  #000080;
 color: #000080;
 font-family: 'Open Sans', sans-serif;
-font-size: 25px;
+font-size: 23px;
 letter-spacing: 2px;
 }
 img {
-border-radius: 50%;
+border-radius: 60%;
 }
 .profile-picture {
 display: block;
